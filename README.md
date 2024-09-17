@@ -1,2 +1,3 @@
-# niv-tracker
-Track stuff while playing Niv-Mizzet, Parun!
+# Niv Tracker
+
+Mana pool tracking
